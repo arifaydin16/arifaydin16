@@ -13,7 +13,7 @@ Arif Emre Aydın is an experienced Full Stack Developer specializing in scalable
 
 ---
 
-- 🔭 Currently working as **Full Stack Developer** at **Yel Business Solutions**
+- 🔭 Currently working as **Full Stack Developer**
 - 🌱 Learning: **Integration of AI tools into development processes**
 - 💬 Ask me about: **Full Stack Development, DevOps practices, Microservices Architecture**
 - 📍 Based in: **Bursa/Osmangazi**
