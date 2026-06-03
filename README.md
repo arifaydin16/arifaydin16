@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hi there, I'm Arif Emre Aydın</h3>
 
 <p align="center">
-  <a href="arifaydindev.com.tr">Website</a> •
-  <a href="https://twitter.com/">Twitter</a> •
-  <a href="https://linkedin.com/in/">LinkedIn</a> •
+  <a href="https://arifaydindev.com.tr">Website</a> •
+  <a href="https://twitter.com/flaris2k">Twitter</a> •
+  <a href="https://linkedin.com/in/arif-emre-aydın-925369269">LinkedIn</a> •
   <a href="https://github.com/arifaydindev">GitHub</a>
 </p>
 
