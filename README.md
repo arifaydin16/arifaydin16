@@ -4,7 +4,7 @@
   <a href="https://arifaydindev.com.tr">Website</a> •
   <a href="https://twitter.com/flaris2k">Twitter</a> •
   <a href="https://linkedin.com/in/arif-emre-aydın-925369269">LinkedIn</a> •
-  <a href="https://github.com/arifaydindev">GitHub</a>
+  <a href="https://github.com/arifaydin16">GitHub</a>
 </p>
 
 ---
