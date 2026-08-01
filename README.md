@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Arif Emre Aydın</h3>
+<h3 align="center">👋 Hi there, I'm Arif Aydın</h3>
 
 <p align="center">
   <a href="https://arifaydindev.com.tr">Website</a> •
