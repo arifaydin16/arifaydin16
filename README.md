@@ -9,7 +9,7 @@
 
 ---
 
-Arif Emre Aydın is an experienced Full Stack Developer specializing in scalable, secure, and high-performance applications using modern web technologies. He is well-versed in DevOps and CI/CD processes, capable of producing projects with both monolithic and microservices architectures. Recently, he has been integrating various AI tools into his work to enhance efficiency and streamline repetitive tasks.
+Arif Aydın is an experienced Full Stack Developer specializing in scalable, secure, and high-performance applications using modern web technologies. He is well-versed in DevOps and CI/CD processes, capable of producing projects with both monolithic and microservices architectures. Recently, he has been integrating various AI tools into his work to enhance efficiency and streamline repetitive tasks.
 
 ---
 
