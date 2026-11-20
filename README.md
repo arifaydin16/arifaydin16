@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hi there, I'm Arif Aydın</h3>
 
 <p align="center">
-  <a href="https://arifaydindev.com.tr">Website</a> •
-  <a href="https://twitter.com/flaris2k">Twitter</a> •
-  <a href="https://linkedin.com/in/arif-emre-aydın-925369269">LinkedIn</a> •
+  <a href="https://arifaydin.dev">Website</a> •
+  <a href="https://x.com/flaris2k">Twitter</a> •
+  <a href="https://www.linkedin.com/in/arif-ayd%C4%B1n-925369269">LinkedIn</a> •
   <a href="https://github.com/arifaydin16">GitHub</a>
 </p>
 
@@ -14,9 +14,9 @@ Arif Aydın is an experienced Full Stack Developer specializing in scalable, sec
 ---
 
 - 🔭 Currently working as **Full Stack Developer**
-- 🌱 Learning: **Integration of AI tools into development processes**
+- 🌱 Learning: **SaaS marketing and sales strategies**
 - 💬 Ask me about: **Full Stack Development, DevOps practices, Microservices Architecture**
 - 📍 Based in: **Bursa/Turkiye**
-- 📫 Reach me: [arifaydindev@gmail.com](mailto:arifaydindev@gmail.com)
+- 📫 Reach me: [info@arifaydin.dev](mailto:info@arifaydin.dev)
 
 ---
